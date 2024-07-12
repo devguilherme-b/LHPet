@@ -28,3 +28,4 @@ C:\Users\guilh\Documents\MEGA\Projetos_MVC\LHPet\obj\Debug\net8.0\refint\LHPet.d
 C:\Users\guilh\Documents\MEGA\Projetos_MVC\LHPet\obj\Debug\net8.0\LHPet.pdb
 C:\Users\guilh\Documents\MEGA\Projetos_MVC\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
 C:\Users\guilh\Documents\MEGA\Projetos_MVC\LHPet\obj\Debug\net8.0\ref\LHPet.dll
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\LHPet\obj\Debug\net8.0\LHPet.sourcelink.json
