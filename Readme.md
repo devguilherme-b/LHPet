@@ -7,9 +7,10 @@ This is a scholl project, where the goal is learn the fundamentals of ASP.NET Co
 ## Tópicos
 
 - [Requirements](#Requirements)
+- [Details](#Details)
 - [Doubts?](#Doubts?)
 - [Credits](#Credits)
-- [Contrbution](#Contrbution)
+- [Contribution](#Contribution)
 - [Contacts](#Contacts)
 
 
@@ -37,6 +38,10 @@ Before starting, make sure you have the following tolls installed: <br>
    ```bash
    dotnet run
    
+<a name="Details"><a/>
+## Details
+
+The data and information used on the website are not true and are fictitious for educational purposes.
 
 <a name="Doubts?"></a>
 ## Doubts?
