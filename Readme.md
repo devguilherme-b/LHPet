@@ -2,7 +2,7 @@
 
 This is a scholl project, where the goal is learn the fundamentals of ASP.NET Core with MVC, in this project  was developed a table for customers and a table for suppliers.
 
-<img src="./img/PrintWebsite.png">
+<img src="../LHPet/Readme/img/PrintWebsite.png">
 
 ## Tópicos
 
