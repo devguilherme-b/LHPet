@@ -67,5 +67,5 @@ More information in the "Contacts" Index, below. 🥰 <br>
 E-mail : dev.guilhermebarbos@gmail.com <br>
 Instagram: <a href=https://www.instagram.com/dev.guilhermengk>@dev.guilhermengk</a><br>
 GitHub: <a href=https://github.com/guilhermengk>@guilhermengk</a> <br>
-Linkedin: <a href=https://www.linkedin.com/in/guilherme-barbos-71a9b92bb>Guilherme Barbosa</a>
+Linkedin: <a href=https://www.linkedin.com/in/guilhermengk>Guilherme Barbosa</a>
 
