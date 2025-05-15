@@ -9,7 +9,7 @@ public class Cliente
     public string Email { get; set; }
     public string Paciente { get; set; }
     
-    // usando o comendo "ctor" p/ criar um construtor do model cliente definindo os parâmetros necessário p/ criar a instância
+    // usando o comando "ctor" p/ criar um construtor do model cliente definindo os parâmetros necessário p/ criar a instância
     public Cliente(int id, string nome, string cpf, string email, string paciente)
     {
         this.Id = id;
